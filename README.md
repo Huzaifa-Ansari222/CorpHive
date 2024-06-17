@@ -1,5 +1,5 @@
-# Corp Project
-Welcome to corp - a project management app designed to help you manage your projects more efficiently.
+# CorpHive Project
+Welcome to corpHive - a project management app designed to help you manage your projects more efficiently.
 
 ## Features
 - Project management
@@ -23,8 +23,4 @@ Welcome to corp - a project management app designed to help you manage your proj
 - Styled Components
 - Material-UI
 - Nodemailer
-
-Installation
-
-![image](https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png)
 
